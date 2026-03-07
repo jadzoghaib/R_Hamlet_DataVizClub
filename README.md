@@ -8,6 +8,29 @@ This project takes Shakespeare's longest play and turns it into an interactive d
 
 ---
 
+## Getting the Project (Clone)
+
+If you are a collaborator or want to run this project on your machine, clone the repository first:
+
+```bash
+git clone https://github.com/jadzoghaib/R_Hamlet_DataVizClub.git
+```
+
+Then navigate into the project folder:
+
+```bash
+cd R_Hamlet_DataVizClub
+```
+
+Open `Hamlet_DataViz_team1.r` in RStudio and click **Run App**.
+
+> **Before you start working**, always pull the latest changes from the repo:
+> ```bash
+> git pull
+> ```
+
+---
+
 ## Table of Contents
 
 1. [Prerequisites & Installation](#1-prerequisites--installation)
