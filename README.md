@@ -116,7 +116,6 @@ The output file is `hamlet_analysis_visualization.png` (40 × 26 inches at 150 d
 |---|---|
 | `tidyverse` | The backbone of all data wrangling — `dplyr` for filtering/grouping/joining, `ggplot2` for all static plots, `stringr` for text operations, `purrr` for `pmap_dfr` |
 | `tidytext` | Splits dialogue into individual tokens (`unnest_tokens`), removes stop words (`anti_join(stop_words)`), and joins the Bing sentiment lexicon |
-| `widyr` | Not used in the final script — can be removed from the install block |
 | `patchwork` | Assembles all ggplot objects into the final poster layout using `/` and `\|` operators and `plot_layout()` |
 | `grid` | Low-level graphics primitives — `unit()` for sizing in `gridExtra` layouts |
 | `gridExtra` | Renders the Lion King comparison table as a styled `tableGrob` and stacks panels with `arrangeGrob` |
